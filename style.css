@@ -5,3 +5,7 @@ border-color: black;
 border-width: 2px;
 border-style: dotted;
 }
+
+p {
+  font-size: 20px
+}
